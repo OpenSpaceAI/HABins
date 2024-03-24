@@ -26,7 +26,7 @@
  <a href='https://ieeexplore.ieee.org/document/10325550'><img src='https://img.shields.io/badge/Paper-TCSVT-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <a href='https://arxiv.org/abs/[]'><img src='https://img.shields.io/badge/arXiv-[]-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
  <a href='https://ruijiezhu94.github.io/HABins_TCSVT2023/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href=''><img src='https://img.shields.io/badge/License-OpenSpaceAI-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://github.com/RuijieZhu94/HABins?tab=Apache-2.0-1-ov-file'><img src='https://img.shields.io/badge/License-Apache 2.0-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
