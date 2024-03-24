@@ -42,15 +42,38 @@
 - **14 Nov. 2023**: The extended paper [HA-Bins](https://ieeexplore.ieee.org/document/10325550) was accepted by **TCSVT 2023**. 
 - **23 Oct. 2022**: We won **the second place**🥈 (MixBins_RVC) on Monocular Depth Estimation track in ECCV2022 workshop: [Robust Vision Challenge 2022](http://www.robustvision.net/leaderboard.php?benchmark=depth).
 
+
+## Installation
+
+Please refer to [get_started.md](docs/get_started.md#installation) for installation and [dataset_prepare.md](docs/dataset_prepare.md#prepare-datasets) for dataset preparation.
+
+## Training and Inference
+
+We provide [train.md](docs/train.md) and [inference.md](docs/inference.md) for the instruction of training and inference. 
+
+
 ## Bibtex
 
 If you like our work and use the codebase or models for your research, please cite our work as follows.
 
 ```
 @ARTICLE{zhu2023habins,
-        author={Zhu, Ruijie and Song, Ziyang and Liu, Li and He, Jianfeng and Zhang, Tianzhu and Zhang, Yongdong},
-        journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-        title={HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets}, 
-        year={2023},
-        doi={10.1109/TCSVT.2023.3335316}}
+  author={Zhu, Ruijie and Song, Ziyang and Liu, Li and He, Jianfeng and Zhang, Tianzhu and Zhang, Yongdong},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets}, 
+  year={2023},
+  doi={10.1109/TCSVT.2023.3335316}}
+```
+
+## Acknowledgment
+This codabase is adapted from the [Monocular-Depth-Estimation-Toolbox](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox), an excellent depth estimation toolbox created by Zhenyu Li.
+Please also consider citing it.
+
+```
+@misc{lidepthtoolbox2022,
+  title={Monocular Depth Estimation Toolbox},
+  author={Zhenyu Li},
+  howpublished = {\url{https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox}},
+  year={2022}
+}
 ```
