@@ -60,8 +60,11 @@ If you like our work and use the codebase or models for your research, please ci
 @ARTICLE{zhu2023habins,
   author={Zhu, Ruijie and Song, Ziyang and Liu, Li and He, Jianfeng and Zhang, Tianzhu and Zhang, Yongdong},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets}, 
-  year={2023},
+  title={HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation Across Multiple Datasets}, 
+  year={2024},
+  volume={34},
+  number={6},
+  pages={4354-4366},
   doi={10.1109/TCSVT.2023.3335316}}
 ```
 
